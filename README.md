@@ -1,2 +1,1 @@
-# aesircoin-depencies
-aesircoin-depencies
+aesircoin-depencies mirror
